@@ -27,6 +27,12 @@ El script `CambiarReloj.py` Permite controlar el reloj del sistema operativo y a
 4. Cuando termines de usarlo, vuelve a clickear en "actualizar hora y fecha automaticamente" para volver tu PC al horario habitual.
 
 
+## EXTRA:
+Esta es una colección de Scripts que son medio inutiles, pero quizas te sirvan para alguna situación.
+
+SpaceToClick: Sirve para que al precionar espacio, se haga un click.
+
+
 ## Contribuciones
 Si tienes mejoras o ideas para los scripts, siéntete libre de contribuir a este repositorio. Agradecemos tus aportes y sugerencias.
    
